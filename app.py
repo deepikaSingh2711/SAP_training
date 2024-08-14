@@ -1,2 +1,2 @@
-print('hello wotld')
+print('hello world')
 print("changes done")
